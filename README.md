@@ -1,7 +1,6 @@
 ### Hey there, I'm Wei a Full Stack Web Developer👋
 
 - 🔭 I’m currently working on learning new skills and improving my current skillset.
-- 🌱 I’m currently learning Full Stack Web Development at Lambda School.
 - 📫 How to reach me: [<img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 - 💬 Ask me anything!
 
